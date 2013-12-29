@@ -207,6 +207,7 @@ video {
 
 .button-dark:hover {
 	background: rgba(255, 255, 255, 0.2);
+	color: #6c3d7f;
 }
 
 .bborder {
