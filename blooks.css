@@ -162,9 +162,7 @@ a:active {
 	top: 1px;
 }
 
-a:visited {
-	color: #9b58b5;
-}
+a:visited {}
 
 /*  -- Images --  */
 img {
@@ -220,10 +218,6 @@ video {
 	margin: 0 0 1em;
 	text-align: center;
 	width: 100%;
-}
-
-.button:visited {
-	color: #ffffff;
 }
 
 .bigger {
