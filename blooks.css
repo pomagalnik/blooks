@@ -197,8 +197,16 @@ video {
 	background: #d3b6de;
 }
 
+.button-dark {
+	background: #6c3d7f;
+}
+
 .button:hover {
 	background: rgba(0, 0, 0, 0.3);
+}
+
+.button-dark:hover {
+	background: rgba(255, 255, 255, 0.2);
 }
 
 .bborder {
